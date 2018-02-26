@@ -1,1 +1,5 @@
-# papers
+- Diplomarbeit: LaTex source of my Diploma thesis
+- Diplomarbeit-MICE.pdf (German)
+- IDS-Paper: Very old over summary of IDSs (German)
+- random-device-analysis.pdf: Results of a crypto research about the predicability of the PRNG output in Linux during boot time, presented at 23C3, from 2005/2006
+- Sicherheitsrelevante Programmierfehler.*: A very comprehensive overview of secure Unix/Linux system programming, also part of the book "Linux-Unix-Programmierung: Das umfassende Handbuch " from Jürgen Wolf. (German)
